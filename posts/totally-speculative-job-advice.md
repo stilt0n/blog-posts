@@ -12,7 +12,7 @@ This is somehow simultaneously too vague and too specific to be useful. But we c
 
 You're reading a blog post with career advice. This unfortunately means we can't do this the easy way so, sure, let's dive deeper. 
 
-Having a personal project helped during the interview in my case. Me and the interviewing engineer talked about my project most of the time. Then we ran out of time and he had to give me a lowball "two queues with a stack" question. Usually people call this luck. My project wasn't even that cool. It was a reskin of a Udemy project (the type of project everyone says will never impress anyone). I even *told my interviewer this* and it was still sufficient just to talk through the technical details.
+Having a personal project helped during the interview in my case. Me and the interviewing engineer talked about my project most of the time. Then we ran out of time and he had to give me a lowball "queue with two stacks" question. Usually people call this luck. My project wasn't even that cool. It was a reskin of a Udemy project (the type of project everyone says will never impress anyone). I even *told my interviewer this* and it was still sufficient just to talk through the technical details.
 
 But why would *your* interview go like this? Why would any of *my* other interviews go like this?
 
@@ -28,7 +28,7 @@ This seems like it should be obvious but it turns out that data is the achilles 
 
 I'm not saying that's *you*. But for sake of argument let's say that's *you*.
 
-Okay, so you've searched listings on Indeed and have found that Java Spring Boot is #1 in your area. So obviously you should focus on Java right? Not so fast Einstein! How "hard" or "easy" it is to get a job depends on a lot more than volume of job postings on Indeed.
+Okay, so you've searched listings on Indeed and have found that Java is #1 in your area. So obviously you should focus on Java right? Not so fast Einstein! How "hard" or "easy" it is to get a job depends on a lot more than volume of job postings on Indeed.
 
 Some of you may be extra clever and already know this. *Of course* you're also going to factor in how many people are competing for the job openings.
 
@@ -57,7 +57,7 @@ If you answered "no" to the last question then there's more to think about. e.g.
 - Are there local communities where you might be able to make meaningful professional connections?
 - Are you better suited for one type of company (e.g. startups) that tends to favor tools that diverge from the average?
 
-Let's say you're a self taught beginner and you're trying to find a small, forward thinking company that will take a risk on an unconventional candidate. Meanwhile you've chosen to optimize your skill set to writing enterprise-style Java because that's what you see on most job postings. Did you actually think this would help you land a job at a small, cutting edge startup? Good luck passing their enterprise-style drug test!
+Let's say you're a self taught programmer and you're trying to find a small, forward thinking company that will take a risk on an unconventional candidate. Meanwhile you've chosen to optimize your skill set to writing enterprise-style Java because that's what you see on most job postings. Did you actually think this would help you land a job at a small, cutting edge startup? Good luck passing their enterprise-style drug test!
 
 The core of the problem here is that you're trying to figure out what the average best path to a job is and then use it as a stand-in for what *your* best path to a job is. And then on top of it all you're ignoring the fact that markets change quickly and skill aquisition takes time.
 
@@ -69,7 +69,7 @@ If you find something you like working with, make sure a reasonable amount of pe
 
 Okay, let's talk about resumes for a bit. Stop me if you've head this one before:
 
-Some desperate chump (you) is looking for resume writing advice and comes across some foul creature on LinkedIn saying shit like "be concise and keep things to one page" but this same jackass gives you an example resume (after you've given them your email for marketing purposes) that fills its precious one page of space with word salad like:
+Some desperate chump (you) is looking for resume writing advice and comes across some bozo on LinkedIn saying shit like "be concise and keep things to one page" but this same jackass gives you an example resume (after you've given them your email for marketing purposes) that fills its precious one page of space with word salad like:
 
 > Leveraged the power of ECMAScript to create beautiful, user-friendly, seamless User Interfaces (UIs) that delivered value to stakeholders by increasing key vanity metrics by 26%
 
@@ -87,7 +87,7 @@ Here's what you need to do:
 
 - Rewrite it immediately
 - Burn all existing physical copies
-- Send apology letters to anyone you made read this
+- Send apology letters to anyone you made read your resume
 - Apologize to whatever gods you believe in.
 - Throw in a few you don't believe in to be safe.
 
