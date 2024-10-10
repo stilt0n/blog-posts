@@ -1,6 +1,6 @@
 # Totally Speculative Job Advice
 
-It seems like one of the basic requirements of being a programmer is having the irritating need to give everyone who has touched a computer career advice. I don't know exactly how it works out this way, because I didn't exactly get asked for career advice in any of my interviews. But someone must have put two and two together and realized that I am exactly the sort of prick who would write an obnoxious blog post giving out programming advice. The rest is history. But that's enough intro.
+It seems like one of the basic requirements of being a programmer is having the irritating need to give everyone who has touched a computer career advice. I don't know exactly how it works out this way, because I didn't exactly get asked for career advice in any of my interviews. But someone must have put two and two together and realized that I am exactly the sort of prick who would write an obnoxious blog post giving out advice. The rest is history. But that's enough intro.
 
 ## 1. No one knows shit about this
 
