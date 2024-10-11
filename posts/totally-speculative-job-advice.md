@@ -67,7 +67,7 @@ If you find something you like working with, make sure a reasonable amount of pe
 
 ## 3. Resumes
 
-Okay, let's talk about resumes for a bit. Stop me if you've head this one before:
+Okay, let's talk about resumes for a bit. Stop me if you've heard this one before:
 
 Some desperate chump (you) is looking for resume writing advice and comes across some bozo on LinkedIn saying shit like "be concise and keep things to one page" but this same jackass gives you an example resume (after you've given them your email for marketing purposes) that fills its precious one page of space with word salad like:
 
